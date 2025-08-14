@@ -40,7 +40,7 @@ Dashboard with search, filtering, and pagination
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: PHP (Procedural)
+Backend: PHP 
 
 Database: MySQL
 
@@ -50,4 +50,4 @@ Hosting Compatibility: XAMPP / WAMP
 
 RaphaelMulangi/RaphaelMulangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----
+--->
